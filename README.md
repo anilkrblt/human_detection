@@ -1,0 +1,1 @@
+Fotoğraftaki insanları tespit eden bir uygulama. Yolo v8 ve SSD300 modelleri kullanıldı. 300x300 çözünürlüklü fotoğraflar için SSD300 modeli daha iyi çalışırken daha büyük çözünürlüklü fotoğraflarda yolov8 modeli daha iyi sonuçlar vermektedir.
