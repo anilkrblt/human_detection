@@ -1,0 +1,7 @@
+train: C:/Users/ACER/Desktop/yolo_example/dataset/images/train
+val:   C:/Users/ACER/Desktop/yolo_example/dataset/images/val
+
+
+nc: 1
+names:
+  - person
